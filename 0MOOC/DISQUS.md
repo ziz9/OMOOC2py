@@ -9,6 +9,7 @@
 [disqus](https://ziz9.disqus.com/admin/settings/install/)
 [disqus2](http://www.chengweiyang.cn/gitbook/plugins/functional/disqus.html)
 [gitbook本地操作](http://weijutu.blogspot.com/2014/06/gitbook-gitbook.html)
+[gitbook本地操作2](https://wastemobile.gitbooks.io/gitbook-chinese/content/book/gitbook-cli.html)
 
 ## 配置
 
