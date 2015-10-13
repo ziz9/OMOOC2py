@@ -8,7 +8,7 @@
 ## 配置
 
 ## 使用
-不太懂,翻找wiki看github pages，大妈给的链接[多用Git少交税](http://www.jianshu.com/p/8a985c622e61)，有图有比喻，写得生动。该文的参考ref，也值得细看。
+不太懂,翻找wiki看github pages，大妈给的链接[多用Git少交税](http://www.jianshu.com/p/8a985c622e61)，有图有比喻，写得生动。该文的参考ref，也值得细看。[如何成为一名黑客](http://translations.readthedocs.org/en/latest/hacker_howto.html)
 
 ## 体验
 
