@@ -9,5 +9,5 @@
 * [素材 (draft)](draft/README.md)
    * [教程该怎么写](draft/how2tutorial.md)
 * [有关](ABOUT.md)
-* 开课笔记
+* [开课笔记](kai_ke_bi_ji.md)
 
