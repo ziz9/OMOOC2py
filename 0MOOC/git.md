@@ -12,7 +12,7 @@
 
 [git book分布式的工作流程](http://gitbook.liuhui998.com/3_6.html)
 
-[阮一峰](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
+[阮一峰 Git远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
 
 ## 体验
 
