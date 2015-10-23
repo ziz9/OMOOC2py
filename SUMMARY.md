@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [开课笔记](kai_ke_bi_ji.md)
-   * [0W_Note](0W_Note.md)
+   * [0W_Note](0wnote_md.md)
    * [如何读书](2W_Note.md)
 * [教学反转](0MOOC/README.md)
 * [基础旋进](1sTry/README.md)
